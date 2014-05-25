@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Mail-Verschlüsselung",
+    "packageVersion": "0.0.1",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "mohrekopp",
+    "githubRepository": "mailencryption"
+  }
+}
