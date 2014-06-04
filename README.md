@@ -4,7 +4,7 @@ Dies sind die Folien für meinen Vortrag "Mailverschlüsselung für Dummies" auf
 
 ## Wo kann man sich die Folien ansehen?
 
-Hier: <a href="http://mohrekopp.github.io/mail-verschluesselung/">http://mohrekopp.github.io/mail-verschluesselung/"</a>
+Hier: <a href="http://mohrekopp.github.io/mail-verschluesselung/">http://mohrekopp.github.io/mail-verschluesselung/</a>
 
 ## Warum so kurz?
 
