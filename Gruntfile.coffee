@@ -79,7 +79,7 @@ module.exports = (grunt) ->
         
         buildcontrol:
 
-             options:
+            options:
                 dir: 'dist'
                 commit: true
                 push: true
