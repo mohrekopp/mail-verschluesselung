@@ -86,7 +86,7 @@ module.exports = (grunt) ->
                 message: 'Built from %sourceCommit% on branch %sourceBranch%'
             pages:
                 options:
-                    remote: 'git@github.com:mohrekopp/mailencryption.git'
+                    remote: 'git@github.com:mohrekopp/mail-verschluesselung.git'
                     branch: 'gh-pages'
         
 
